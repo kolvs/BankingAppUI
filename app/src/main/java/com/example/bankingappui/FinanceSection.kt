@@ -26,10 +26,10 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.example.bankingappui.data.Finance
 import com.example.bankingappui.tools.toast
-import com.example.bankingappui.ui.theme.BlueStart
-import com.example.bankingappui.ui.theme.GreenStart
-import com.example.bankingappui.ui.theme.OrangeStart
-import com.example.bankingappui.ui.theme.PurpleStart
+import com.example.bankingappui.ui.color.BlueStart
+import com.example.bankingappui.ui.color.GreenStart
+import com.example.bankingappui.ui.color.OrangeStart
+import com.example.bankingappui.ui.color.PurpleStart
 
 val finances = listOf(
     Finance(

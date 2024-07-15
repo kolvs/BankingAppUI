@@ -23,14 +23,14 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.example.bankingappui.data.Card
-import com.example.bankingappui.ui.theme.BlueEnd
-import com.example.bankingappui.ui.theme.BlueStart
-import com.example.bankingappui.ui.theme.GreenEnd
-import com.example.bankingappui.ui.theme.GreenStart
-import com.example.bankingappui.ui.theme.OrangeEnd
-import com.example.bankingappui.ui.theme.OrangeStart
-import com.example.bankingappui.ui.theme.PurpleEnd
-import com.example.bankingappui.ui.theme.PurpleStart
+import com.example.bankingappui.ui.color.BlueEnd
+import com.example.bankingappui.ui.color.BlueStart
+import com.example.bankingappui.ui.color.GreenEnd
+import com.example.bankingappui.ui.color.GreenStart
+import com.example.bankingappui.ui.color.OrangeEnd
+import com.example.bankingappui.ui.color.OrangeStart
+import com.example.bankingappui.ui.color.PurpleEnd
+import com.example.bankingappui.ui.color.PurpleStart
 
 
 const val BUSINESS = "Business"

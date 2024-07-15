@@ -1,4 +1,4 @@
-package com.example.bankingappui.ui.theme
+package com.example.bankingappui.ui.color
 
 import androidx.compose.ui.graphics.Color
 
